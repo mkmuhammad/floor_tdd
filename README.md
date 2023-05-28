@@ -6,3 +6,5 @@ This Is a Sample Project Using:
  3. get_it as dependency injector
 
 The Structure is Also Designed Based on TDD and Clean Architecture Approach. 
+
+The Project is Very Simple And Straight Forward, The Porpuse is To Realize How To Work With Floor + Bloc + CleanArchitecture All Toghether And Use It as A Sample to Figure Things Out
